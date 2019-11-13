@@ -23,6 +23,7 @@ body{
     }
  }
  
- .iemail{
-    background-color: transparent;
+ .form-control{
+    background-color: transparent !important;
+    color: white !important;
  }
